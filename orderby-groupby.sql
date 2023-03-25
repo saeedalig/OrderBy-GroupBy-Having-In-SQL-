@@ -109,5 +109,3 @@ FROM smartphones
 GROUP BY processor_brand
 ORDER BY  AVG_PRICE DESC;
 
-SELECT * FROM smartphones ;
-SELECT count(*) FROM smartphones ;
